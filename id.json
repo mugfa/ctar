@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.olshopmugfaid.myapp",
+                   "sha256_cert_fingerprints": ["2C:2C:57:82:ED:D0:CD:29:86:03:F4:8A:AD:59:57:04:3C:0E:7F:40:B2:D0:3C:74:4E:DF:CD:A7:A4:CE:C8:83"] }
+    }]
